@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-01T18:11:38.000Z</updated>
+  <updated>2017-11-27T15:13:19.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/06/30/%E4%B8%80%E4%B8%AA%E7%A6%8F%E5%88%A9/"/>
     <id>http://yoursite.com/2017/06/30/一个福利/</id>
     <published>2017-06-29T19:59:43.000Z</published>
-    <updated>2017-07-01T18:11:38.000Z</updated>
+    <updated>2017-11-27T15:13:19.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h3><p>这个是第一个福利，提纲（原创）点开后按 <code>CONTROL+P</code> 就可以打印啦！</p>
 <p>开通了评论功能，欢迎在下面讨论问题~</p>
@@ -48,6 +48,30 @@
     
     
       <category term="material science" scheme="http://yoursite.com/tags/material-science/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>申请季末期的托福</title>
+    <link href="http://yoursite.com/2017/06/30/%E7%94%B3%E8%AF%B7%E5%AD%A3%E6%9C%AB%E6%9C%9F%E7%9A%84%E6%89%98%E7%A6%8F/"/>
+    <id>http://yoursite.com/2017/06/30/申请季末期的托福/</id>
+    <published>2017-06-29T19:59:43.000Z</published>
+    <updated>2017-11-27T15:25:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>下一次的托福可能是最后一次托福了。从去年开始考到现在在英语上花费的时间超过以往的任何一个时期，听力的进步最为明显，跟着杰哥的课上下来，基础巩固了许多。但是，还没有考出来，这周四会出一次分，上100和S22+要想达到还是很困难。想想以前的你是怎么学习的，能够专注那么久不被干扰，学习托福的有效时间究竟又有多少呢。如果考出一个可以用的托福分数的话，你可以申请到一个更好的学校，更有可能和阿一在一起，选择的可能也会更广泛。你会有更多的机会追逐你的梦想，而且，你爱coding，你看到这次软件组的小朋友花旗杯的作品时候，也知道自己和他们有了很大的差距。现在，你有机会有更好的平台，你可以凭借你的热爱一步一步追上他们，成为一个会码代码、懂点金融、喜欢做菜、还会艺术的生活家。此外，英语真的真的很重要，剩下几次机会好好磨砺自己吧，不管是从心里还是技巧上，尽量向着完美从此，不要同情自己，同情自己的人是loser。</p>
+<p>So keep fighting harder and harder and never give up.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;下一次的托福可能是最后一次托福了。从去年开始考到现在在英语上花费的时间超过以往的任何一个时期，听力的进步最为明显，跟着杰哥的课上下来，基础巩固了许多。但是，还没有考出来，这周四会出一次分，上100和S22+要想达到还是很困难。想想以前的你是怎么学习的，能够专注那么久不被干扰
+    
+    </summary>
+    
+      <category term="STUDY" scheme="http://yoursite.com/categories/STUDY/"/>
+    
+    
+      <category term="English" scheme="http://yoursite.com/tags/English/"/>
     
   </entry>
   
